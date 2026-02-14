@@ -1,0 +1,9 @@
+pynput
+pyautogui
+pytesseract
+openai
+pyperclip
+openrgb-python
+Pillow
+opencv-python
+numpy
