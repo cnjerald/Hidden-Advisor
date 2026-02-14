@@ -10,6 +10,6 @@ This is not intended for use. It is only built for fun and as a submission for M
 
 
 ## Requirements:
-1. Tesseract
+1. tesseract ocr
 2. OpenRGB
 3. See Requirements.txt
